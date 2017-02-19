@@ -1,0 +1,36 @@
+An effective nighttime vehicle detection approach combines a novel region-ofinterest extraction approach based on vehicle light detection
+and object proposals with nighttime image enhancement.
+sliding-window paradigm,1,2 that is, scanning
+the image with multiscale rectangular
+windows and applying a classifier to
+the window-defined subimage, which is effective
+but time-consuming. Object proposals,
+a new technique that computes the
+likeliness of each image window being an
+object and generates candidate regions containing
+objects, has been well studied since
+2010.3–5 But such methods are developed
+on datasets that only contain daytime images,
+so windows containing nighttime vehicles
+might have low scores due to the low
+contrast and luminosity that make vehicle
+features unclear. Figure 1a shows an example
+of two low-scoring nighttime vehicles
+using EdgeBoxes, which is a state-of-the-art
+object proposal approach4; here, only one
+vehicle is selected by the top-scoring windows
+(in green) and others are missed.
+Nighttime image enhancement is indispensable
+for nighttime vehicle detection.
+H. Lin and Z. Shi6 proposed a multiscale
+retinex (MSR)-based method7 for nighttime
+image enhancement that is improved on
+here. Specifically, this article presents an effective
+nighttime vehicle detection approach
+that combines region-of-interest (ROI) extraction
+and nighttime image enhancement.
+During the training stage, five complementary
+features are extracted from enhanced
+training samples to train five classifiers
+via a support vector machine (SVM)8 and
+fivefold cross-validation.
