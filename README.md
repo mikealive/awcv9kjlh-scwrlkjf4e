@@ -3,6 +3,8 @@ This is the contest page for cosec 670 course in TAMU
 
 awcv9kjlh scwrlkjf4e
 
+http://ec2-52-26-6-164.us-west-2.compute.amazonaws.com
+
 Introduction
 This is a very simple sub-generator, compared to the “entity” sub-generator.awcv9kjlh scwrlkjf4e
 
