@@ -5,6 +5,8 @@ awcv9kjlh scwrlkjf4e
 
 http://ec2-52-26-6-164.us-west-2.compute.amazonaws.com
 
+http://www.fdurop.fudan.edu.cn/projDetail.php?gk=4933&sk=6100&st=3
+
 Introduction
 This is a very simple sub-generator, compared to the “entity” sub-generator.awcv9kjlh scwrlkjf4e
 
