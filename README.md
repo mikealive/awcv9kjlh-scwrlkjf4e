@@ -1,6 +1,8 @@
 # awcv9kjlh-scwrlkjf4e
 This is the contest page for cosec 670 course in TAMU
 
+NetID: smalltigerson
+
 awcv9kjlh scwrlkjf4e
 
 http://ec2-52-26-6-164.us-west-2.compute.amazonaws.com
